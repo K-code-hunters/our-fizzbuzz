@@ -1,4 +1,4 @@
-for i in range(1, 30+1):
+for i in range(1, 30+2):
     if i % 15 ==0:
         print('fizzbuzz')
     elif i % 3 ==0 :
